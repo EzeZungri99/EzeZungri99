@@ -42,9 +42,7 @@ My goal is to grow professionally in startups that value **technical flexibility
 I’m open to challenging projects in startups looking for a committed, adaptable full stack developer eager to grow.  
 Feel free to reach out!
 
-📩 [Your email] | 💼 [LinkedIn] | 🌐 [Portfolio or GitHub]
+📩 zungri2020@gmail.com | 💼 https://www.linkedin.com/in/ezequiel-zungri-427082269/ | 🌐 +54 11 63724502
 
 
-Mail : zungri2020@gmail.com
-Telefono: +54 11 63724502
-Linked in: https://www.linkedin.com/in/ezequiel-zungri-427082269/
+
