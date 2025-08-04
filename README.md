@@ -1,47 +1,49 @@
+# Hi! I'm Ezequiel Zungri 👋
 
-# ¡Hola! Soy Ezequiel Zungri 👋
+## Who am I?
 
-## ¿Quién soy?
+I am a **Full Stack Developer** with over 2 years of experience working in fast-paced startups and innovative projects, especially in NFT gaming and Web3 technology. I am versatile, quick to learn, and adapt easily to new technical and product challenges.
 
-Soy un **Desarrollador Full Stack** con más de 2 años de experiencia en startups dinámicas y proyectos innovadores, especialmente en el ámbito de videojuegos NFT y tecnología Web3. Me destaco por ser **versátil**, con rápida capacidad de aprendizaje y adaptación a nuevos desafíos técnicos y de producto.
+## What do I do?
 
-## ¿Qué hago?
+I develop end-to-end features, from backend to frontend, actively contributing to user experience improvements and product definition. I work with agile methodologies, Git using Pull Requests, and collaborate closely with cross-functional teams to deliver real and continuous value.
 
-Trabajo desarrollando funcionalidades completas, desde backend hasta frontend, y participo activamente en la mejora de la experiencia del usuario y la definición del producto. Uso metodologías ágiles, manejo Git con Pull Requests y colaboro en equipos multidisciplinarios para entregar valor real y constante.
+## What is my goal?
 
-## ¿Cuál es mi objetivo?
+My goal is to grow professionally in startups that value **technical flexibility**, effective communication, and commitment to quality. I am looking for part-time or full-time opportunities where I can bring my multifunctional profile and keep learning modern technologies.
 
-Mi objetivo es crecer profesionalmente en startups que valoren la **flexibilidad técnica**, la comunicación efectiva y el compromiso con la calidad. Busco oportunidades part-time o full-time donde pueda aportar con mi perfil polifuncional y seguir aprendiendo tecnologías modernas.
+## Technologies and tools I use
 
-## Tecnologías y herramientas que uso
-
-### Backend y frontend:
+### Backend and frontend:
 - JavaScript / TypeScript  
 - React.js / Next.js  
 - Node.js / NestJS / Express  
 - PostgreSQL / Sequelize  
 - HTML / CSS (Styled Components / TailwindCSS)
 
-### Herramientas y metodologías:
-- Git / GitHub (con Pull Requests y branching)  
-- Notion, Trello, Jira (gestión ágil y documentación)  
-- Figma (colaboración en diseño UI/UX)
+### Tools and methodologies:
+- Git / GitHub (with Pull Requests and branching)  
+- Notion, Trello, Jira (agile management and documentation)  
+- Figma (collaborative UI/UX design)
 
 ---
 
-## ¿Qué me diferencia?
+## What sets me apart?
 
-- Alta capacidad para trabajar en todas las capas del producto (full stack).  
-- Comunicación clara y asertiva para facilitar el trabajo en equipo.  
-- Proactividad para proponer soluciones y mejoras.  
-- Rápida adaptación a nuevas tecnologías y entornos cambiantes.
+- Strong ability to work across the full product stack.  
+- Clear and assertive communication to facilitate teamwork.  
+- Proactive in proposing solutions and improvements.  
+- Quick adaptability to new technologies and changing environments.
 
 ---
 
-## 📬 ¿Charlamos?
+## 📬 Let's connect!
 
-Estoy disponible para proyectos desafiantes en startups que busquen un desarrollador full stack comprometido, adaptable y con ganas de crecer.  
-¡Contactame!
+I’m open to challenging projects in startups looking for a committed, adaptable full stack developer eager to grow.  
+Feel free to reach out!
+
+📩 [Your email] | 💼 [LinkedIn] | 🌐 [Portfolio or GitHub]
+
 
 Mail : zungri2020@gmail.com
 Telefono: +54 11 63724502
